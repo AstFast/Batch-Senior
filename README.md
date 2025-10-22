@@ -9,4 +9,4 @@ It is currently not available
 
 ### Note:
 
-Only supports Windows XP and above
+Only supports Windows XP and above(It is completely incompatible with DOS, as most commands are built on Windows)
