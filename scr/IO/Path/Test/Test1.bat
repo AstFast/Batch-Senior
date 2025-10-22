@@ -1,4 +1,4 @@
 @echo off
 setlocal enabledelayedexpansion
-call GetARCVNumber.bat 1 2 3 4
+call CreateDirectory.bat D:\source\1
 echo %errorlevel%

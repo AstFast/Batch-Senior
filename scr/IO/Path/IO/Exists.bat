@@ -1,6 +1,6 @@
 
 @echo off
-rem Check whether the file or folder exists. 
+rem Check whether the file exists. 
 rem If it exists, return 1; if not, return 0
 rem Sample:Exists.bat C:\1.txt
 rem return:%errorlevel%
